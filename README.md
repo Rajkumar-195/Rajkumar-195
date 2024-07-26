@@ -4,8 +4,7 @@
 Hello! I am Rajkumar, an engineering graduate passionate about creating innovative web applications. I enjoy building robust solutions and exploring new technologies to enhance my skills.
 
 - 🌱 Engineering Graduate with a solid foundation in Web Development.
-- 💼 Passionate Developer dedicated to crafting reliable and advanced applications.
-- 📈 Committed to continuously advancing my skills and Eager to contribute.
+- 📈 Committed to continuously advancing my skills and Eager to develop reliable and advanced applications.
 - 💞 Driven by a love for learning new technologies.
 
 ---
