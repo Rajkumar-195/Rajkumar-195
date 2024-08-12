@@ -1,4 +1,4 @@
-# Welcome to my Github profile... 👋
+# Welcome to my GitHub profile... 👋
 
 <!-- Introduction section -->
 Hello! I am Rajkumar, an engineering graduate passionate about creating innovative web applications. I enjoy building robust solutions and exploring new technologies to enhance my skills.
