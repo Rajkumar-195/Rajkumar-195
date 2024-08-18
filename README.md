@@ -53,16 +53,35 @@ Hello! I am Rajkumar, an engineering graduate passionate about creating innovati
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajkumar-195&show_icons=true&locale=en&layout=compact" alt="Top languages used by Rajkumar-195"/>
 </div>
 
+
+<!-- Displays GitHub stats and streaks -->
+<p align="left">
+  <table style="width: 100%; border-collapse: collapse; border-spacing: 0;">
+    <tr>
+      <!-- GitHub streak stats -->
+      <td style="width: 50%; padding: 0; border: none;">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumar-195&" alt="GitHub streak stats" style="width: 100%; height: auto;" />
+      </td>
+      <!-- GitHub user stats -->
+      <td style="width: 50%; padding: 0; border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=rajkumar-195&show_icons=true&locale=en" alt="GitHub user stats" style="width: 100%; height: auto;" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+
+
 <!-- Reach out section with LinkedIn, Portfolio, and Email badges -->
 🔗 Reach Me...
 <!-- Section for LinkedIn, Portfolio, and Email badges -->
 <div style="padding-left: 200px;">
   <!-- LinkedIn badge -->
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/rajkumar-info/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="LinkedIn logo" />
   </a>
   <!-- Portfolio badge -->
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=90EE90&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="Portfolio logo" />
   </a>
   <!-- Email badge -->
@@ -70,3 +89,6 @@ Hello! I am Rajkumar, an engineering graduate passionate about creating innovati
     <img src="https://img.shields.io/static/v1?message=Email&logo=mail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="Email logo" />
   </a>
 </div>
+
+
+
