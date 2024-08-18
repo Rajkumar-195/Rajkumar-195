@@ -14,23 +14,7 @@ Hello! I am Rajkumar, an engineering graduate passionate about creating innovati
   <img src="https://komarev.com/ghpvc/?username=rajkumar-35&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<!-- Displays GitHub stats and streaks -->
-<p align="left">
-  <table style="width: 100%; border-collapse: collapse; border-spacing: 0;">
-    <tr>
-      <!-- GitHub streak stats -->
-      <td style="width: 50%; padding: 0; border: none;">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumar-195&" alt="GitHub streak stats" style="width: 100%; height: auto;" />
-      </td>
-      <!-- GitHub user stats -->
-      <td style="width: 50%; padding: 0; border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=rajkumar-195&show_icons=true&locale=en" alt="GitHub user stats" style="width: 100%; height: auto;" />
-      </td>
-    </tr>
-  </table>
-</p>
 
----
 
 <!-- Tech Stack section -->
 **🔗 Tech Stack...**
