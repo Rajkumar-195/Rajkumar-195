@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 <!-- Introduction section -->
-Hello! I’m **Rajkumar A.**, an engineering graduate with a deep passion for web development. I’m dedicated to building innovative, robust solutions and am constantly exploring new technologies to expand my skill set.
+I am Rajkumar, an engineering graduate with extensive knowledge of MERN stack development and hands-on experience in project development. I am currently seeking entry-level opportunities to develop my career.
 
 - 🌱 **Engineering Graduate:** Equipped with a solid foundation in web development.
 - 📈 **Continuous Learner:** Always eager to advance my skills and develop cutting-edge applications.
