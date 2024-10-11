@@ -76,7 +76,7 @@ I am Rajkumar, an engineering graduate with extensive knowledge of MERN stack de
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="LinkedIn logo" />
   </a>
   <!-- Portfolio badge -->
-  <a href="https://rajkumar-portfolio-35.vercel.app/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=90EE90&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="Portfolio logo" />
   </a>
 </div>
