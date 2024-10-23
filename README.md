@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 <!-- Introduction section -->
-I am Rajkumar, an engineering graduate with extensive knowledge of MERN stack development and hands-on experience in project development. I am currently seeking entry-level opportunities to develop my career.
+As a graduate in Computer Science Engineering with expertise in developing dynamic applications, I am proficient in React.js and Node.js. and also have experience in server-side programming and API integration, along with hands-on experience in building projects.
 
 - 🌱 **Engineering Graduate:** Equipped with a solid foundation in web development.
 - 📈 **Continuous Learner:** Always eager to advance my skills and develop cutting-edge applications.
