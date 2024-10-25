@@ -41,7 +41,7 @@ As a graduate in Computer Science Engineering with expertise in developing dynam
 <br>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajkumar-195&theme=github_dark" alt="GitHub profile details" style="width: 96%; display: inline-block;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajkumar-195&theme=github_dark" alt="GitHub profile details" style="width: 100%; display: inline-block;"/>
 </p>
 <!-- GitHub summary and top languages -->
 <p align="left">
