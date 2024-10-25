@@ -41,19 +41,27 @@ As a graduate in Computer Science Engineering with expertise in developing dynam
 
 
 
+
 <!-- GitHub summary and top languages -->
 <p align="left">
   <table style="width: 100%;">
     <tr>
-      <td style="width: 50%;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajkumar-195&theme=github_dark" alt="GitHub profile details" style="height: 200px; width: 100%;" />
+      <td colspan="2" style="width: 100%;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajkumar-195&theme=github_dark" alt="GitHub profile details" style="width: 100%; display: inline-block;"/>
       </td>
-      <td style="width: 50%;">
+    </tr>
+    <tr>
+      <td style="width: 70%;">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumar-195&theme=radical&hide_border=true" alt="GitHub streak stats" style="width: 100%; height: auto;" />
+      </td>
+      <td style="width: 30%;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumar-195&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top languages" style="height: 200px; width: 100%;" />
       </td>
     </tr>
   </table>
 </p>
+
+      
 
 ---
 
@@ -131,5 +139,6 @@ As a graduate in Computer Science Engineering with expertise in developing dynam
 
 
 
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumar-195&theme=radical&hide_border=true" alt="GitHub streak stats" style="width: 100%; height: auto;" /> -->
+
+<!--  -->
 
