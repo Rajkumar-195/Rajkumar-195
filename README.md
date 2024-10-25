@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 <!-- About Me -->
-As a graduate in Computer Science Engineering with expertise in developing dynamic applications, I am proficient in React.js and Node.js. and also have experience in server-side programming and API integration, along with hands-on experience in building projects.
+As a graduate in Computer Science Engineering with expertise in developing dynamic applications, I am proficient in React.js and Node.js and have experience in server-side programming and API integration, along with hands-on experience in building projects.
 
 - 🌱 **Engineering Graduate:** Equipped with a solid foundation in web development.
 - 📈 **Continuous Learner:** Always eager to advance my skills and develop cutting-edge applications.
@@ -14,7 +14,6 @@ As a graduate in Computer Science Engineering with expertise in developing dynam
   <img src="https://komarev.com/ghpvc/?username=rajkumar-195&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-
 <div style="padding-left: 20px;">
 
   <!-- LinkedIn -->
@@ -23,45 +22,40 @@ As a graduate in Computer Science Engineering with expertise in developing dynam
   </a>
 
   <!-- Portfolio -->
-  <a href="" target="_blank">
+  <a href="https://rajkumar-portfolio-35.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=90EE90&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="Portfolio" />
   </a>
 
   <!-- LeetCode -->
-  <a href="" target="_blank">
+  <a href="https://leetcode.com/rajkumar195/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="LeetCode" />
   </a>
 
-  <!-- Resume (PDF) -->
-  <a href="" target="_blank">
+  <!-- Resume -->
+  <a href="https://drive.google.com/file/d/your-resume-id/view" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=google-drive&label=&color=FF5733&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="Resume (PDF)" />
   </a>
 
 </div>
 
+<br>
 
-
-
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajkumar-195&theme=github_dark" alt="GitHub profile details" style="width: 96%; display: inline-block;"/>
+</p>
 <!-- GitHub summary and top languages -->
 <p align="left">
   <table style="width: 100%;">
     <tr>
-      <td colspan="2" style="width: 100%;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajkumar-195&theme=github_dark" alt="GitHub profile details" style="width: 100%; display: inline-block;"/>
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 70%;">
+      <td style="width: 15%;">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumar-195&theme=radical&hide_border=true" alt="GitHub streak stats" style="width: 100%; height: auto;" />
       </td>
-      <td style="width: 30%;">
+      <td style="width: 45%;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumar-195&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top languages" style="height: 200px; width: 100%;" />
       </td>
     </tr>
   </table>
 </p>
-
-      
 
 ---
 
@@ -100,45 +94,4 @@ As a graduate in Computer Science Engineering with expertise in developing dynam
 ## 📬 Reach Out to Me
 
 **📧 Email:** `rajkumaranbu195@gmail.com`<br><br>
-**🔗 LinkedIn:** [Rajkumar A](https://www.linkedin.com/in/rajkumar-info/)<!-- --> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--  -->
-
+**🔗 LinkedIn:** [Rajkumar A](https://www.linkedin.com/in/rajkumar-info/)
