@@ -16,24 +16,30 @@ As a graduate in Computer Science Engineering with expertise in developing dynam
 
 <div style="padding-left: 20px;">
 
+
+  <!-- Resume -->
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=google-drive&label=&color=FF5733&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="Resume (PDF)" />
+  </a>
+
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rajkumar-info/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="LinkedIn" />
   </a>
 
   <!-- Portfolio -->
-  <a href="https://rajkumar-portfolio-35.vercel.app/" target="_blank">
+  <a href=""_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=90EE90&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="Portfolio" />
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/rajkumar195/" target="_blank">
+  <a href=""_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="LeetCode" />
   </a>
 
-  <!-- Resume -->
-  <a href="https://drive.google.com/file/d/your-resume-id/view" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=google-drive&label=&color=FF5733&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="Resume (PDF)" />
+  <!-- GeeksforGeeks -->
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=2F8D46&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="GeeksforGeeks" />
   </a>
 
 </div>
