@@ -16,7 +16,6 @@ As a graduate in Computer Science Engineering with expertise in developing dynam
 
 <div style="padding-left: 20px;">
 
-
   <!-- Resume -->
   <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=google-drive&label=&color=FF5733&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="Resume (PDF)" />
@@ -28,12 +27,12 @@ As a graduate in Computer Science Engineering with expertise in developing dynam
   </a>
 
   <!-- Portfolio -->
-  <a href=""_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=90EE90&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="Portfolio" />
   </a>
 
   <!-- LeetCode -->
-  <a href=""_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="LeetCode" />
   </a>
 
@@ -43,6 +42,7 @@ As a graduate in Computer Science Engineering with expertise in developing dynam
   </a>
 
 </div>
+
 
 <br>
 
